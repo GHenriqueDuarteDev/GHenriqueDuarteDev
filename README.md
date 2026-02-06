@@ -1,8 +1,8 @@
-<h1 align="center">Olá sou o Gustavo Henrique</h1>
+<h1 align="center">Olá, sou o Gustavo Henrique</h1>
 
 ###
 
-<h3 align="center">Sou desenvolvedor Full-Stack e comecei minha jornada na tecnologia em abril de 2023. Sou entusiasta no desenvolvimento de novas ferramentas. Confira meus principais projetos em andamento. Fique à vontade para testar, comentar e, se preferir, fazer um code review. :)</h3>
+<h3 align="center">Sou desenvolvedor Full-Stack e comecei minha jornada na tecnologia em abril de 2023. Sou entusiasta do desenvolvimento de novas ferramentas. Confira meus principais projetos em andamento. Fique à vontade para testar, comentar e, se preferir, fazer um code review. :)</h3>
 
 ###
 
@@ -13,7 +13,7 @@
 
 ###
 
-<h1 align="center">Principais tecnologias<h3>
+<h1 align="center">🚀 Principais tecnologias</h1>
 
 ###
 
@@ -30,9 +30,11 @@
   <img src="https://img.shields.io/badge/styled--components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="styled component logo"/>
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="html5 logo"/>
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="css3 logo"/>
-  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white alt="tailwind logo"/>
+  <img src="https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="tailwind logo"/>
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="git logo"/>
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="github logo"/>
+
+</div>
 
 ###
 
@@ -40,8 +42,8 @@
 
 ###
 
+<div align="center">
   <img src="https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white" alt="docker logo"/>
-
 <img src="https://img.shields.io/badge/Express%20js-000000?style=for-the-badge&logo=express&logoColor=white" alt="express logo"/>
 <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="mysql logo"/>
 <img src="https://img.shields.io/badge/Node%20js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="nodejs logo"/>
@@ -59,13 +61,13 @@
 <h1 align="center">📬 Contate-me 📬</h1>
 
 <div align="center">
-  <a href="instagram.com/henriquekrs" target="_blank">
+  <a href="https://instagram.com/henriquekrs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
   </a>
-  <a href="www.linkedin.com/in/henriquekrs" target="_blank">
+  <a href="https://www.linkedin.com/in/henriquekrs" target="_blank" rel="noopener noreferrer">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
   </a>
-  <a href="ghrduarte@hotmail.com" target="_blank">
+  <a href="mailto:ghrduarte@hotmail.com">
     <img src="https://img.shields.io/static/v1?message=Outlook&logo=microsoft-outlook&label=&color=0078D4&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="microsoft-outlook logo"  />
   </a>
 </div>
