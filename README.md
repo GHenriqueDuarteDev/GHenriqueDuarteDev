@@ -2,9 +2,7 @@
 
 ###
 
-<h3 align="start">Desenvolvedor Full-Stack apaixonado por tecnologia e por transformar ideias em soluções digitais úteis.
-
-Tenho experiência em projetos reais, atuando em times ágeis e colaborando em todas as etapas do desenvolvimento, sempre com foco em qualidade, performance e entrega de valor.
+<h3 align="start">Desenvolvedor Full-Stack apaixonado por tecnologia e por transformar ideias em soluções digitais úteis. Tenho experiência em projetos reais, atuando em times ágeis e colaborando em todas as etapas do desenvolvimento, sempre com foco em qualidade, performance e entrega de valor.
 Acredito em código limpo, aprendizado contínuo e em gerar impacto positivo através da tecnologia.
 
 </h3>
